@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @PO-DMR
 - 👀 I’m interested in competitive duck herding
 - 🌱 I’m currently learning how to make my own shoe polish
-- 💞️ I’m NOT looking forward to collaborate
-- 📫 How to reach me: Don't call me, I'll call you!
-- 😄 Pronouns: Young/handsome
 - ⚡ Fun fact: I lie through my teeth!
   
 <!---
